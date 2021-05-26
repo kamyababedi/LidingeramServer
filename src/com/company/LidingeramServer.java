@@ -16,7 +16,6 @@ public class LidingeramServer {
 
     public static void main(String[] args) {
 
-
         try {
             ss = new ServerSocket(4000);
 
@@ -38,3 +37,4 @@ public class LidingeramServer {
 
     }
 }
+
